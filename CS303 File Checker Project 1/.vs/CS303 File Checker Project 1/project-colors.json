@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "36f7f784-0dcd-44dd-ae1a-3a0196290273": {
+      "ProjectGuid": "36f7f784-0dcd-44dd-ae1a-3a0196290273",
+      "DisplayName": "CS303 File Checker Project 1",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
