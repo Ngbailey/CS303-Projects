@@ -1,7 +1,7 @@
 ﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Assignment 2 CS303.vcxproj).  This can lead to incorrect clean and rebuild behavior.
   Source.cpp
-C:\Users\natha\Desktop\CS303 Projects\Assignment 2 CS303\Assignment 2 CS303\Header.h(92,34): warning C4101: 'f': unreferenced local variable
-C:\Users\natha\Desktop\CS303 Projects\Assignment 2 CS303\Assignment 2 CS303\Header.h(103,34): warning C4101: 'f': unreferenced local variable
-C:\Users\natha\Desktop\CS303 Projects\Assignment 2 CS303\Assignment 2 CS303\Header.h(206,34): warning C4101: 'f': unreferenced local variable
-C:\Users\natha\Desktop\CS303 Projects\Assignment 2 CS303\Assignment 2 CS303\Source.cpp(46,11): warning C4553: '==': result of expression not used; did you intend '='?
-  Assignment 2 CS303.vcxproj -> C:\Users\natha\Desktop\CS303 Projects\Assignment 2 CS303\x64\Debug\Assignment 2 CS303 Part 1.exe
+C:\Users\natha\Desktop\CS303 Projects\Assignment 2 CS303 part 1\Assignment 2 CS303\Header.h(92,34): warning C4101: 'f': unreferenced local variable
+C:\Users\natha\Desktop\CS303 Projects\Assignment 2 CS303 part 1\Assignment 2 CS303\Header.h(104,34): warning C4101: 'f': unreferenced local variable
+C:\Users\natha\Desktop\CS303 Projects\Assignment 2 CS303 part 1\Assignment 2 CS303\Header.h(208,34): warning C4101: 'f': unreferenced local variable
+C:\Users\natha\Desktop\CS303 Projects\Assignment 2 CS303 part 1\Assignment 2 CS303\Source.cpp(46,11): warning C4553: '==': result of expression not used; did you intend '='?
+  Assignment 2 CS303.vcxproj -> C:\Users\natha\Desktop\CS303 Projects\Assignment 2 CS303 part 1\x64\Debug\Assignment 2 CS303 Part 1.exe
