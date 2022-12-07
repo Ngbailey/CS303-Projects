@@ -1,0 +1,3 @@
+﻿  Recursion.cpp
+C:\Users\natha\Desktop\CS303 Projects\Assignment 3 problem 2\Assignment 3 problem 2\Recursion.cpp(13,43): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Assignment 3 problem 2.vcxproj -> C:\Users\natha\Desktop\CS303 Projects\Assignment 3 problem 2\x64\Debug\Assignment 3 problem 2.exe
