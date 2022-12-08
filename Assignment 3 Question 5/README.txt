@@ -1,0 +1,2 @@
+The state data map program is very simple.
+simply enter tha name of the state you want to look up the capital for when promoted and if you entered a state that is within the listed map it will output the capital.
